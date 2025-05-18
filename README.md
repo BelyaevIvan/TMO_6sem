@@ -23,7 +23,7 @@
 - Jupyter Notebook
 - Библиотеки машинного обучения:
   - `numpy`, `pandas`, `matplotlib`
-  - `scikit-learn`, `tensorflow/keras` (если используются)
+  - `scikit-learn`, `seaborn`
 
 ---
 
