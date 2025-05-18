@@ -11,10 +11,10 @@
 ## 📂 Содержание репозитория
 
 ### 📝 Контрольные работы:
-| Работа | Ссылка на решение | Статус |
-|--------|-------------------|--------|
-| **РК1** | [rk1.ipynb](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/rk1.ipynb) | ✅ Завершено |
-| **РК2** | [rk2.ipynb](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/rk2.ipynb) | ✅ Завершено |
+| Работа | Условие | Решение | Статус |
+|--------|---------|---------|--------|
+| **РК1** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/rk1.ipynb) | ✅ Завершено |
+| **РК2** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/rk2.ipynb) | ✅ Завершено |
 
 ---
 
