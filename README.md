@@ -1,7 +1,7 @@
 # 📚 Репозиторий для курса "Технологии машинного обучения" (6 семестр)
 
-![Machine Learning](https://github.com/BelyaevIvan/TMO_6sem)
-![Jupyter Notebook](https://github.com/BelyaevIvan/TMO_6sem)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 Этот репозиторий содержит мои работы по курсу **"Технологии машинного обучения"**.  
 Здесь вы найдете решения практических заданий и контрольных работ.
