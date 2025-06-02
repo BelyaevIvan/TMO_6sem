@@ -15,6 +15,7 @@
 |--------|---------|---------|--------|
 | **РК1** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/rk1.ipynb) | ✅ Завершено |
 | **РК2** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/rk2.ipynb) | ✅ Завершено |
+| **НИР** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D0%9D%D0%98%D0%A0%D0%A1/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D0%9D%D0%98%D0%A0%D0%A1/nirs.ipynb) | ✅ Завершено<br>[Отчет](https://github.com/BelyaevIvan/TMO_6sem/blob/%D0%9D%D0%98%D0%A0%D0%A1/%D0%91%D0%B5%D0%BB%D1%8F%D0%B5%D0%B2%20%D0%98%D0%A35-63%D0%91%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9D%D0%98%D0%A0%D0%A1.pdf) |
 
 ---
 
@@ -23,7 +24,7 @@
 - Jupyter Notebook
 - Библиотеки машинного обучения:
   - `numpy`, `pandas`, `matplotlib`
-  - `scikit-learn`, `seaborn`
+  - `scikit-learn`, `seaborn`, `imbalanced-learn`
 
 ---
 
