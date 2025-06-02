@@ -61,6 +61,7 @@
 
 ## 🔗 Дополнительные материалы  
 - Датасет: [Most Popular 1000 YouTube Videos](https://www.kaggle.com/datasets/samithsachidanandan/most-popular-1000-youtube-videos)  
+- Исходный код: [GitHub](https://github.com/BelyaevIvan/TMO_6sem/blob/%D0%9D%D0%98%D0%A0%D0%A1/nirs.ipynb)
 
 --- 
 
